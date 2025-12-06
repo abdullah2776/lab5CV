@@ -1,31 +1,93 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+@* For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860 *@ @ {
 }
 
 body {
-  margin-bottom: 60px;
+    scroll-behavior: smooth;
+    transition: background-color 0.5s, color 0.5s;
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+.navbar {
+    background-color: #0d6efd;
+    transition: background-color 0.5s;
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
-  text-align: start;
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+
+header {
+    background: linear-gradient(to right, #0d6efd, #6610f2);
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+#about img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.progress {
+    height: 20px !important;
+    font-weight: bold;
+}
+
+.portfolio-card img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+footer {
+    background: #0d6efd;
+    color: white;
+    padding: 20px 0;
+}
+
+    footer a {
+        color: #fff;
+        margin: 0 10px;
+    }
+
+/* --- DARK MODE STYLES --- */
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+    body.dark-mode .navbar {
+        background-color: #1f1f1f;
+    }
+
+    body.dark-mode header {
+        background: linear-gradient(to right, #222, #333);
+        color: #fff;
+    }
+
+    body.dark-mode section {
+        background-color: #1a1a1a !important;
+        color: #e0e0e0 !;
+    }
+
+    body.dark-mode .card {
+        background-color: #222;
+        border: 1px solid #333;
+        color: #fff;
+    }
+
+    body.dark-mode .progress {
+        background-color: #333;
+    }
+
+    body.dark-mode footer {
+        background-color: #1f1f1f;
+    }
+
+.theme-toggle {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.4rem;
+    margin-left: 10px;
+    cursor: pointer;
 }

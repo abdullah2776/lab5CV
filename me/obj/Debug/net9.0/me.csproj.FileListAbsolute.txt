@@ -22,9 +22,7 @@ C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\rjsmcshtml.dsw
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\scopedcss\bundle\me.styles.css
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\scopedcss\projectbundle\me.bundle.scp.css
-C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\n2uihh6g1x-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\f01xaglxow-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\uacgeafugc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\uknf53vyj6-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\85kcthvl9s-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\o0v7q6di3m-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -97,3 +95,5 @@ C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\refint\me.dll
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\me.pdb
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\me.genruntimeconfig.cache
 C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\ref\me.dll
+C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\n2uihh6g1x-{0}-i4hdtie1qk-i4hdtie1qk.gz
+C:\Users\plati\OneDrive\Desktop\Csharp\lab5CV\me\obj\Debug\net9.0\compressed\uacgeafugc-{0}-wqa4vwry8s-wqa4vwry8s.gz
