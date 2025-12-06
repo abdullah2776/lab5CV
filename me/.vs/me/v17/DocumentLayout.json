@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\views\\home\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:views\\home\\me.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5D6BC9A-28CA-41D3-BC5C-792CC5BE82A8}|me.csproj|c:\\users\\plati\\onedrive\\desktop\\csharp\\lab5cv\\me\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T16:04:00.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T16:03:01.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -55,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -63,12 +105,11 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-06T15:59:16.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T15:59:16.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -76,33 +117,24 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-06T15:58:06.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-12-06T15:58:06.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-12-06T15:57:57.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -110,12 +142,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T12:36:48.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T12:36:48.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -127,13 +158,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "me.cshtml",
               "DocumentMoniker": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\Home\\me.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\me.cshtml",
               "ToolTip": "C:\\Users\\plati\\OneDrive\\Desktop\\Csharp\\lab5CV\\me\\Views\\Home\\me.cshtml",
               "RelativeToolTip": "Views\\Home\\me.cshtml",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-05T12:36:22.781Z",
               "EditorCaption": ""
